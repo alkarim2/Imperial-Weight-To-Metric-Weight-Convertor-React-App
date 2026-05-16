@@ -1,0 +1,1 @@
+The challenge was to create a React app that takes an imperial weight as input then states the equivalent metric weight as output. The language used was React. How it works is by the user inputting an imperial weight into the app then an equivalent metric weight is displayed as output.
